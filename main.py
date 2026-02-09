@@ -2,8 +2,6 @@ import tkinter
 import tkinter.font
 import random
 
-#1
-
 lotto_num = range(1, 46)
 
 
